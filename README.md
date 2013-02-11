@@ -6,7 +6,7 @@ A Sublime Text 2 Google Closure Build System for Windows users.
 PREREQUISITES
 ------------------------------------
 
-Google Closure *.jar (downloadable here - http://code.google.com/p/closure-compiler/downloads/detail?name=compiler-latest.zip) must be on your Sublime Text installation, in "\Data\Packages\User\Google Closure\".
+Java JRE must be installed on your Windows system and Google Closure *.jar (downloadable here - http://code.google.com/p/closure-compiler/downloads/detail?name=compiler-latest.zip) must be on your Sublime Text installation, in "\Data\Packages\User\Google Closure\".
 
 INSTALLATION
 ------------------------------------
