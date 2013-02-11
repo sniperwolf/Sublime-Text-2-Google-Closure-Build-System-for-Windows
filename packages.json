@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.2",
+  "packages": [
+		{
+			"name": "Sublime Text 2 Google Closure Build System for Windows",
+			"description": "A Sublime Text 2 Google Closure Build System for Windows users.",
+			"author": "Fabrizio Fallico",
+			"homepage": "https://github.com/sniperwolf/Sublime-Text-2-Google-Closure-Build-System-for-Windows",
+			"last_modified": "2013-02-11 16:22:52",
+			"platforms": {
+				"*": [
+					{
+						"version": "1.0.0",
+						"url": "https://github.com/sniperwolf/Sublime-Text-2-Google-Closure-Build-System-for-Windows/archive/master.zip"
+					}
+				]
+			}
+		}
+	]
+}
