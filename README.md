@@ -21,5 +21,3 @@ INSTALLATION
 
 Now you will find the Sass build system in "Tools" -> "Build Systems..." -> "Google Closure".
 Enjoy!
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sniperwolf/sublime-text-2-google-closure-build-system-for-windows/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
